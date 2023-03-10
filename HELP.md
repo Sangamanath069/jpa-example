@@ -1,4 +1,6 @@
 # Read Me First
+Read me first 
+commite test
 The following was discovered as part of building this project:
 
 * The original package name 'com.hr.app.jpa-example' is invalid and this project uses 'com.hr.app.jpaexample' instead.
